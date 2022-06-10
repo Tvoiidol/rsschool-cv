@@ -13,3 +13,5 @@ ___Instagram: @tvoi_idol_tyt___
 * specialization - civil engineer 
 ```
 ```
+# About me
+I would like to learn new skills and develop in a new profession. So i signed up for courses RS school and this CV is my first step.
