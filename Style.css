@@ -35,3 +35,21 @@ body {
     color: white;
     background-color: #2c323d;
 }
+.figure-left-side {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: min-content;
+    background-color: #343945;
+}
+.burger {
+    display: none;
+}
+.nav__list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
