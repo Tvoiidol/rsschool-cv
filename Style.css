@@ -1,0 +1,15 @@
+h1 {
+    font-family: Fascinate ;
+    src: url(assets/fonts/Fascinate-Regular.ttf);
+    font-weight: 900;
+    font-size: 24pt;
+       }
+       
+body {
+    font-family: KdamThmorPro ;
+    src: url(assets/fonts/KdamThmorPro-Regular.ttf);
+    font-weight: 100
+   }
+   body {
+    background-color: #fffffd;
+   }
